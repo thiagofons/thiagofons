@@ -1,6 +1,8 @@
-### Hi there 👋
+
 
 <div align="center">
+  <div align="center">Hi there 👋</div>
+  <hr>
   <a href="https://github.com/thiagofons">
   <img width="450em" height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagofons&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img width="450em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagofons&layout=compact&langs_count=7&theme=dark"/>
