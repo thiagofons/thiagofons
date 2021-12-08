@@ -1,6 +1,7 @@
 ### Hi there 👋
-<div align="center">
-  <a href="https://github.com/rafaballerini">
+
+<div>
+  <a href="https://github.com/thiagofons">Thiago Arruda</a>
 </div>
                                             
                                             
