@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div align="left" style="display: inline-block;">
+<div align="center" style="display: inline-block;">
   <hr>
   <a href="https://github.com/thiagofons">
   <img width="400em" height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagofons&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
