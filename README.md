@@ -1,4 +1,4 @@
-<h1>Who am I</h1> 
+<h1>About me</h1> 
 
 <p>Front-end developer focused on mobile development</p>
 
