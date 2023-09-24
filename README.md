@@ -1,8 +1,8 @@
-# Who am I
+<h1>Who am I</h1> 
 
-Front-end developer focused on mobile development
+<p>Front-end developer focused on mobile development</p>
 
-## Stack Web
+<h2>Stack Web</h2> 
 <p float="left">
   <a href="https://en.wikipedia.org/wiki/HTML5">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="100" height="100" />  
@@ -24,7 +24,7 @@ Front-end developer focused on mobile development
   </a>  
 </p>
 
-## Stack Mobile
+<h2>Stack Mobile</h2> 
 
 <p float="left">
   <a href="https://en.wikipedia.org/wiki/Flutter_(software)">
