@@ -1,6 +1,6 @@
-# Quem sou
+# Who am I
 
-Desenvovedor front-end com foco em desenvolvimento mobile
+Front-end developer focused on mobile development
 
 ## Stack Web
 <p float="left">
