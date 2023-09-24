@@ -1,9 +1,6 @@
-### Hi there 👋
 
-<div align="center" style="display: inline-block;">
-  <hr>
-  <a href="https://github.com/thiagofons">
-</div>
+
+
 
 <div style="display: inline_block"><br>
     <img width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />
