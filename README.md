@@ -30,6 +30,9 @@
   <a href="https://en.wikipedia.org/wiki/Flutter_(software)">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="100" height="100" />
   </a>
+  <a href="https://en.wikipedia.org/wiki/React_(software)">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="100" height="100" />
+  </a>
 </p>
 
 
