@@ -1,6 +1,6 @@
 <h1>About me</h1> 
 
-<p>Front-end developer focused on mobile development</p>
+<p>Full Stack developer focused on mobile development</p>
 
 <h2>Web Stack</h2> 
 <p float="left">
