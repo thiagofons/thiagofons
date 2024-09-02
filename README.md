@@ -13,6 +13,10 @@
   <a href="https://en.wikipedia.org/wiki/Sass_(style_sheet_language)">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="100" height="100" />
   </a>
+ 
+  <a href="https://en.wikipedia.org/wiki/Tailwind_CSS">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="100" height="100" />
+  </a>
   <a href="https://en.wikipedia.org/wiki/JavaScript">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="100" height="100" />
   </a>
@@ -35,4 +39,16 @@
   </a>
 </p>
 
+<h2>Back-End Stack</h2> 
 
+<p float="left">
+  <a href="https://pt.wikipedia.org/wiki/NestJS">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="100" height="100" />
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Node.js">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="100" height="100" />
+  </a>
+  <a href="https://en.wikipedia.org/wiki/PostgreSQL">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="100" height="100" />
+  </a>
+</p>
