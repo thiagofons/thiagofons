@@ -2,7 +2,7 @@
 
 <p>Full Stack developer focused on mobile development</p>
 
-<h2>Web Stack</h2> 
+<h2>Web</h2> 
 <p float="left">
   <a href="https://en.wikipedia.org/wiki/HTML5">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="100" height="100" />  
@@ -28,7 +28,7 @@
   </a>  
 </p>
 
-<h2>Mobile Stack</h2> 
+<h2>Mobile</h2> 
 
 <p float="left">
   <a href="https://en.wikipedia.org/wiki/Flutter_(software)">
@@ -39,7 +39,7 @@
   </a>
 </p>
 
-<h2>Back-End Stack</h2> 
+<h2>Back-End</h2> 
 
 <p float="left">
   <a href="https://pt.wikipedia.org/wiki/NestJS">
