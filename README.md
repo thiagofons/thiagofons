@@ -65,7 +65,7 @@
 |---------|-------------|------------|
 | [GoPark](https://gopark.app.br) | Parking reservation platform | React Native · Next.js · NestJS |
 | [Next Internationalizaztion Template](https://github.com/thiagofons/next-intl-template) | Repository template to build scalable internationalized websites | NextJS |
-| [OpenAI Assistant Template](https://github.com/thiagofons/openai-assistant-template) | Template to build ai agents usign OpenAI platform | Python |
+| [OpenAI Assistant Template](https://github.com/thiagofons/openai-assistant-template) | Template to build ai agents using OpenAI platform | Python |
 
 ---
 
