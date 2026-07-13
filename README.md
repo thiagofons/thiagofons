@@ -1,49 +1,13 @@
 <h1 align="center">👋 Hi, I'm Thiago Arruda</h1>
 <h3 align="center">Software Engineer</h3>
 
-<p align="center">
-  Building resilient, scalable, and domain-driven systems.
-</p>
+### 🚀 My Mission: The Curator Project
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/thiagofons" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:thiagofa2506@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-### 🚀 My Open Source Mission: The Curator Project
-
-> I believe we're drowning in shallow content. As "Lifelong Learners", we need curated paths to deep knowledge, not just more noise.
->
-> I'm building **[Curator](https://github.com/thiagofons/curator)**, an open-source platform that acts as a "sommelier of culture", delivering logical learning roadmaps.
->
-> **We are building this in the open and looking for collaborators!** If you're passionate about Domain-Driven Design (DDD), reactive microservices, and building meaningful products, let's connect.
-
----
-
-### 🏛️ My Engineering Philosophy
-
-My focus goes beyond just writing code. I architect systems built for the long term, based on rigor and engineering excellence. My core principles are:
-
-* **Domain-Driven Design (DDD):** Modeling complex business logic by separating bounded contexts to create autonomous, maintainable services.
-* **Event-Driven Microservices:** Building resilient systems that communicate asynchronously (Kafka/RabbitMQ) and scale independently.
-* **Developer Experience (DX) & SRE:** Creating "Golden Paths" (Monorepos, IaC) and defining clear SLOs/Error Budgets to ensure reliability is a feature, not an afterthought.
-
-**Key Achievements:**
-- 🏆 1st Place - Founders Live Rio 2024
-- 🚀 Founded GoPark - Parking reservation platform
-- 🚍 Architected real-time bus tracking for Niteroi City Hall
+> I'm not sure where it will go, but i'm driving this path...
 
 ---
 
 ### 🛠 My Architectural Toolkit
-
-My stack is built around modern, scalable, and observable systems.
 
 #### </> Programming Languages
 
@@ -117,18 +81,3 @@ My stack is built around modern, scalable, and observable systems.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width="50" title="Jest" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="50" title="Playwright" />
 </p>
-
----
-
-### 📦 Selected Work & Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [Curator](https://github.com/thiagofons/curator)| Curated roadmaps for deep, contextual learning | Kubernetes · Microservices · TypeScript |
-| [GoPark](https://gopark.app.br) | Parking reservation platform | React Native · Next.js · NestJS |
-| [Next Internationalization Template](https://github.com/thiagofons/next-intl-template) | Repository template to build scalable internationalized websites | NextJS |
-| [OpenAI Assistant Template](https://github.com/thiagofons/openai-assistant-template) | Template to build ai agents using OpenAI platform | TypeScript |
-
----
-
-📫 **Let's build together!** Open to collaborations on open source, complex systems, and new ventures.
